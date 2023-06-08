@@ -1,2 +1,3 @@
 /configs/default.env
 /venv
+**/__pycache__/
