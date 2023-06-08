@@ -3,10 +3,10 @@ import logging
 
 from aiogram import Bot, Dispatcher
 
-from config_reader import config
+from configs.config_reader import config
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token=config.bot_token.get_secret_value(), parse_mode=None)
+bot = Bot(token=config.BOT_TOKEN.get_secret_value(), parse_mode=None)
 dp = Dispatcher()
 
 

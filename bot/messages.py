@@ -1,7 +1,7 @@
 import json
 
 # Load the messages from the JSON file
-with open('../configs/language.json', 'r', encoding='utf-8') as f:
+with open('language.json', 'r', encoding='utf-8') as f:
     messages = json.load(f)
 
 
