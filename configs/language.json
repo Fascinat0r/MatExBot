@@ -1,0 +1,26 @@
+{
+  "greeting": {
+    "en": "Hello! How can I assist you?",
+    "ru": "Здравствуйте! Чем я могу вам помочь?"
+  },
+  "help_message": {
+    "en": "Here are some things I can do:\n- Nothing",
+    "ru": "Вот что я могу сделать:\n- Ничего"
+  },
+  "invalid_command": {
+    "en": "Sorry, that's not a valid command. Type /help to see a list of available commands.",
+    "ru": "Извините, это недопустимая команда. Введите /help, чтобы увидеть список доступных команд."
+  },
+  "confirm": {
+    "en": "Are you sure you want to do this?",
+    "ru": "Вы уверены, что хотите это сделать?"
+  },
+  "email_send": {
+    "en": "The message has been sent to ",
+    "ru": "Сообщение было отправлено на "
+  },
+  "email_error": {
+    "en": "The message was not sent",
+    "ru": "Сообщение не было отправлено"
+  }
+}

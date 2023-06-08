@@ -1,0 +1,5 @@
+config~=0.5.1
+aiogram~=3.0.0b7
+pydantic~=1.10.7
+SQLAlchemy~=2.0.15
+pandas~=2.0.2
